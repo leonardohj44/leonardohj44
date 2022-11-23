@@ -7,7 +7,7 @@ Apasionado por la programación. Responsable, trabajo en equipo, metodologias á
 Full Stack Developer | Javascript | Node | React | Redux | Sequelize | HTML5 | CSS | PostgreSQL | MySQL | Python | Computer Network Administrator in Linux
 
 ## Languages and tools:
-![Written](https://tinyurl.com/5n74abba) 
+![image](https://user-images.githubusercontent.com/102682074/203596676-b3ccd71c-d84c-4cd6-803f-db87f2393582.png)
 
 
 ## My Projects:
