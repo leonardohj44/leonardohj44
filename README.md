@@ -17,7 +17,7 @@ https://henry-pf.vercel.app/
 - Proyecto Individual (Bootcamp Henry): Pokemon Card
 https://pokemon-pi-tawny.vercel.app/
 
-- Proyecto 1 (Alura - ONE): Encriptador - Desencroiptador
+- Proyecto 1 (Alura - ONE): Encriptador - Desencriptador
 https://leonardohj44.github.io/encriptador/
 
 - Proyecto 2 (Alura - ONE): Juego del Ahorcado
